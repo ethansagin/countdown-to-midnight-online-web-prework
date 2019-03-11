@@ -3,6 +3,7 @@
 def countdown(number)
   counter = number
   while countdown > 0
-    puts "#{countdown} SECONDS
+    puts "#{countdown} SECOND(S)!"
+    
   
 end
